@@ -24,6 +24,6 @@ https://github.com/samwel-chege/Delani-studio.git
 6. jQuery
 
 ### Live Site
-View [Delani-studio] (https://samwel-chege.github.io/Delani-studio/) live
+View [Delani-studio](https://samwel-chege.github.io/Delani-studio/) live
 ### Licence
 This project is under the  [MIT](LICENSE) licence
