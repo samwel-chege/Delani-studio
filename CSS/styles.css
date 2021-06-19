@@ -1,0 +1,113 @@
+#bg1{
+    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-size: cover;  
+}
+.logo{
+    margin-top: 200px;
+    margin-left: 45%;
+}
+#click{
+    padding: 5% 0 0 45%;
+}
+.section-header{
+    
+    color: white;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#bg2{
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-size: cover;
+
+}
+.section2-header{
+    color: white;
+    text-align: center;
+
+}
+
+#header{
+    text-align: center;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+
+}
+#icon1{
+    margin-left: 15%;
+    margin-top: 4%;
+    padding-left: 23%;
+
+}
+#icon2{
+    padding-left: 39%;
+    margin-top: 6%;
+}
+#icon3{
+    padding-left: 30%;
+    margin-top: 4%;
+}
+.header2{
+    text-align: center;
+    margin-top: 5%;
+}
+#asgn> img{
+    height: 25vh;
+    width: 15vw;
+    margin: 5% 15% 8% 15%;
+   
+}
+#port> img{
+    height: 25vh;
+    width: 15vw;
+    margin: 5% 15% 8% 15%;
+}
+
+.des{
+    padding-left: 1%;
+}
+#bg3{
+    background-image: url(../assets/backgrounds/c_image.jpg);
+    background-size: cover;
+}
+textarea{
+    margin-top: 2%;
+    background: transparent;
+    border: 1px solid white;
+    margin-left: 13%;
+}
+textarea::placeholder{
+    color: white;
+}
+.section3-header{
+    color: white;
+}
+#name{
+    background: transparent;
+}   
+#email{
+    background: transparent;
+    
+}
+.input::placeholder{
+    color: white;
+}
+.input{
+    border: 1px solid white;
+}
+.icon{
+    text-align: center;
+}
+.section4-header{
+    text-align: center;
+}
+h5{
+    margin-top: 3%;
+}
+
