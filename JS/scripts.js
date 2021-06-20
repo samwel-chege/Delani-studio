@@ -71,13 +71,15 @@ $(document).ready(function(){
       });
   });
   $(document).ready(function(){
-      var name = $("#Name").val();
-      var email = $('#Email').val();
-      if (name == "" && email == "" ){
-          alert(name + "fill in the form");
-      } 
-      else{
-          alert(" name + we have received your message. Thank you  for reaching out to us.");
+    $(".button").click(function(){
+      var name = $("input#Name").val();
+      var email = $("input#Email").val();
+      var message = $("textarea#subject").val();
+      if ($("input#Name").val() && $("input#Email").val()){
+        alert (name + ", we have received your message. Thank you for reaching out to us.");
       }
+      else {
+        alert("Please enter your name and email!");
+      }
+    });
   });
-   
