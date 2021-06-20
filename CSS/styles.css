@@ -58,17 +58,15 @@ p{
     margin-top: 5%;
 }
 #asgn> img{
-    height: 25vh;
-    width: 15vw;
-    margin: 5% 15% 8% 15%;
-   
+    height: 20vh;
+    width: 12vw;
+    margin: 1% 1% 8% 15%;
 }
 #port> img{
-    height: 25vh;
-    width: 15vw;
-    margin: 5% 15% 8% 15%;
+    height: 20vh;
+    width: 12vw;
+    margin: 1% 1% 5% 15%;
 }
-
 .des{
     padding-left: 1%;
 }
