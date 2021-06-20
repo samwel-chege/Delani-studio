@@ -70,4 +70,14 @@ $(document).ready(function(){
         $("#asgn8").hide();
       });
   });
+  $(document).ready(function(){
+      var name = $("#Name").val();
+      var email = $('#Email').val();
+      if (name == "" && email == "" ){
+          alert(name + "fill in the form");
+      } 
+      else{
+          alert(" name + we have received your message. Thank you  for reaching out to us.");
+      }
+  });
    
