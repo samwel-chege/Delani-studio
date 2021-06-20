@@ -26,5 +26,48 @@ $(document).ready(function() {
         $('#icon3').show();
         $('#description3').hide();
     });
+    
 });
+$(document).ready(function(){
+    $("#port1").mouseover(function(){
+      $("#asgn1").show();
+    }).mouseout(function(){
+      $("#asgn1").hide();
+    });
+    $("#port2").mouseover(function(){
+        $("#asgn2").show();
+      }).mouseout(function(){
+        $("#asgn2").hide();
+      });
+    $("#port3").mouseover(function(){
+        $("#asgn3").show();
+      }).mouseout(function(){
+        $("#asgn3").hide();
+      });
+      $("#port4").mouseover(function(){
+        $("#asgn4").show();
+      }).mouseout(function(){
+        $("#asgn4").hide();
+      });
+      $("#port5").mouseover(function(){
+        $("#asgn5").show();
+      }).mouseout(function(){
+        $("#asgn5").hide();
+      });
+      $("#port6").mouseover(function(){
+        $("#asgn6").show();
+      }).mouseout(function(){
+        $("#asgn6").hide();
+      });
+      $("#port7").mouseover(function(){
+        $("#asgn7").show();
+      }).mouseout(function(){
+        $("#asgn7").hide();
+      });
+      $("#port8").mouseover(function(){
+        $("#asgn8").show();
+      }).mouseout(function(){
+        $("#asgn8").hide();
+      });
+  });
    
